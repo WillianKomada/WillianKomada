@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho na Yellow Engenharia - Field Force (Startup)
 
-- 💻 Sempre estudando! [![Rocketseat](https://app.rocketseat.com.br/me/williankomada)]
+- 💻 Sempre estudando! [!Rocketseat](https://app.rocketseat.com.br/me/williankomada)
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block">
