@@ -31,7 +31,7 @@
 
 ## 🤙 &nbsp;Contacts
 <div>
-	<a href="https://api.whatsapp.com/send?phone=5512992033336&text=Ol%C3%A1%2C%20prazer!%20Meu%20nome%20%C3%A9%20Willian.%20%F0%9F%98%84" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+	<a href="https://api.whatsapp.com/send?phone=5512992033336" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/willian-komada-aa705a172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 	
