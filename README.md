@@ -1,45 +1,43 @@
-### Hi there 👋
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Willian Komada</h1>
 
-**WillianKomada/WillianKomada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Desenvolvedor Front-end
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho na Yellow Engenharia - Field Force (Startup)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Sempre estudando! [Rocketseat](https://app.rocketseat.com.br/me/williankomada)
+<br><br>
+## 🛠 &nbsp;Tech Stack
+<div style="display: inline_block">
+	<img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+	<img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+	<img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+	<img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+</div>
 
-##
+<br><br>
 
-<div>
+## ⚙️ &nbsp;GitHub Analytics
+<div align="left">
   <a href="https://github.com/williankomada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williankomada&show_icons=true&theme=midnight-purple&border_color=7f3ace&include_all_commits=true&count_private=true">
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williankomada&layout=compact&langs_count=5&theme=midnight-purple&border_color=7f3ace">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=williankomada&show_icons=true&theme=midnight-purple&border_color=7f3ace&include_all_commits=true&count_private=true" alt="williankomada's stats">
+ 	<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williankomada&layout=compact&langs_count=5&theme=midnight-purple&border_color=7f3ace" alt="williankomada's most languages">
 </div>
 	
-	<div style="display: inline_block"><br>
-		<img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/react/react-original.svg">
-		<img align="center" alt="React Native" height="30" width="40" src="">
-		<img align="center" alt="NextJS" height="30" width="40" src="">
-		<img align="center" alt="JavaScript" height="30" width="40" src="">
-		<img align="center" alt="TypeScript" height="30" width="40" src="">
-		<img align="center" alt="CSS" height="30" width="40" src="">
-		<img align="center" alt="SASS" height="30" width="40" src="">
-		<img align="center" alt="Tailwind CSS" height="30" width="40" src="">
-	</div>
-  
-##
-  
+<br><br>
+
+## 🤙 &nbsp;Contacts
 <div>
 	<a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 	<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 	
-	
+<br><br>
+
+## 🐍 &nbsp;Snake Commits 
 ![Snake animation](https://github.com/williankomada/williankomada/blob/output/github-contribution-grid-snake.svg)
 	
 	
