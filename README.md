@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor Front-end
 
-- 🔭 Atualmente trabalho na Yellow Engenharia - Field Force (Startup)
+- 🔭 Experiência profissional: Yellow Engenharia - Field Force (Startup)
 
 - 💻 Sempre estudando! [Rocketseat](https://app.rocketseat.com.br/me/williankomada)
 
