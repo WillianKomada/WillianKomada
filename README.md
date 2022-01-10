@@ -12,21 +12,20 @@
 <div style="display: inline_block">
 	<img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 	<img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+	<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
  	<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 	<img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-	<img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="left">
-  <a href="https://github.com/williankomada">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=williankomada&show_icons=true&theme=midnight-purple&border_color=7f3ace&include_all_commits=true&count_private=true" alt="williankomada's stats">
- 	<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williankomada&layout=compact&langs_count=5&theme=midnight-purple&border_color=7f3ace" alt="williankomada's most languages">
+	<a href="https://github.com/williankomada">
+	<img width="530em" src="https://github-readme-stats.vercel.app/api?username=williankomada&show_icons=true&theme=midnight-purple&border_color=7f3ace&include_all_commits=true&count_private=true" alt="williankomada's stats">
+	<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williankomada&layout=compact&langs_count=5&theme=midnight-purple&border_color=7f3ace" alt="williankomada's most languages">
 </div>
 	
 <br><br>
