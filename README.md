@@ -4,7 +4,7 @@
 
 - 🔭 Experiência profissional: Yellow Engenharia - Field Force (Startup)
 
-- 💻 Sempre estudando! [Rocketseat](https://app.rocketseat.com.br/me/williankomada)
+- 💻 Sempre evoluindo! [Rocketseat](https://app.rocketseat.com.br/me/williankomada)
 
 <br><br>
 
